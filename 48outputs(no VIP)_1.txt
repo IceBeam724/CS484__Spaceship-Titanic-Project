@@ -1,0 +1,188 @@
+CryoSleep=True, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 439
+  Not transported = 8
+  Percent transported = 98.21%
+
+CryoSleep=True, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 439
+  Not transported = 2
+  Percent transported = 99.55%
+
+CryoSleep=True, HomePlanet=Europa, Destination=NA:
+  Transported = 14
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=False, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 295
+  Not transported = 416
+  Percent transported = 41.49%
+
+CryoSleep=False, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 157
+  Not transported = 263
+  Percent transported = 37.38%
+
+CryoSleep=False, HomePlanet=Europa, Destination=PSO J318.5-22:
+  Transported = 5
+  Not transported = 5
+  Percent transported = 50.0%
+
+CryoSleep=False, HomePlanet=Europa, Destination=NA:
+  Transported = 8
+  Not transported = 13
+  Percent transported = 38.1%
+
+CryoSleep=NA, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 21
+  Not transported = 10
+  Percent transported = 67.74%
+
+CryoSleep=NA, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 15
+  Not transported = 10
+  Percent transported = 60.0%
+
+
+
+
+
+
+
+
+
+CryoSleep=True, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 499
+  Not transported = 310
+  Percent transported = 61.68%
+
+CryoSleep=True, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 158
+  Not transported = 47
+  Percent transported = 77.07%
+
+CryoSleep=True, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 239
+  Not transported = 116
+  Percent transported = 67.32%
+
+CryoSleep=True, HomePlanet=Earth, Destination=NA:
+  Transported = 11
+  Not transported = 2
+  Percent transported = 84.62%
+
+CryoSleep=False, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 677
+  Not transported = 1532
+  Percent transported = 30.65%
+
+CryoSleep=False, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 183
+  Not transported = 289
+  Percent transported = 38.77%
+
+CryoSleep=False, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 108
+  Not transported = 232
+  Percent transported = 31.76%
+
+CryoSleep=False, HomePlanet=Earth, Destination=NA:
+  Transported = 29
+  Not transported = 56
+  Percent transported = 34.12%
+
+CryoSleep=NA, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 31
+  Not transported = 52
+  Percent transported = 37.35%
+
+CryoSleep=NA, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 7
+  Not transported = 6
+  Percent transported = 53.85%
+
+CryoSleep=NA, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 8
+  Not transported = 9
+  Percent transported = 47.06%
+
+
+
+
+
+
+
+CryoSleep=True, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 506
+  Not transported = 55
+  Percent transported = 90.2%
+
+CryoSleep=True, HomePlanet=Mars, Destination=55 Cancri e:
+  Transported = 74
+  Not transported = 2
+  Percent transported = 97.37%
+
+CryoSleep=True, HomePlanet=Mars, Destination=PSO J318.5-22:
+  Transported = 10
+  Not transported = 1
+  Percent transported = 90.91%
+
+CryoSleep=True, HomePlanet=Mars, Destination=NA:
+  Transported = 20
+  Not transported = 1
+  Percent transported = 95.24%
+
+CryoSleep=False, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 231
+  Not transported = 648
+  Percent transported = 26.28%
+
+CryoSleep=False, HomePlanet=Mars, Destination=55 Cancri e:
+  Transported = 42
+  Not transported = 70
+  Percent transported = 37.5%
+
+CryoSleep=False, HomePlanet=Mars, Destination=PSO J318.5-22:
+  Transported = 12
+  Not transported = 24
+  Percent transported = 33.33%
+
+CryoSleep=False, HomePlanet=Mars, Destination=NA:
+  Transported = 5
+  Not transported = 15
+  Percent transported = 25.0%
+
+CryoSleep=NA, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 18
+  Not transported = 17
+  Percent transported = 51.43%
+
+
+
+
+
+
+CryoSleep=True, HomePlanet=NA, Destination=TRAPPIST-1e:
+  Transported = 44
+  Not transported = 6
+  Percent transported = 88.0%
+
+CryoSleep=True, HomePlanet=NA, Destination=55 Cancri e:
+  Transported = 15
+  Not transported = 2
+  Percent transported = 88.24%
+
+CryoSleep=True, HomePlanet=NA, Destination=PSO J318.5-22:
+  Transported = 6
+  Not transported = 2
+  Percent transported = 75.0%
+
+CryoSleep=False, HomePlanet=NA, Destination=TRAPPIST-1e:
+  Transported = 26
+  Not transported = 73
+  Percent transported = 26.26%
+
+CryoSleep=False, HomePlanet=NA, Destination=55 Cancri e:
+  Transported = 5
+  Not transported = 8
+  Percent transported = 38.46%
