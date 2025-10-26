@@ -1,0 +1,719 @@
+CryoSleep=True, VIP=True, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 9
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=True, VIP=True, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 11
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=True, VIP=True, HomePlanet=Europa, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=Europa, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=Earth, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=Mars, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=Mars, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=Mars, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=NA, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=NA, Destination=55 Cancri e:
+  Transported = 1
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=True, VIP=True, HomePlanet=NA, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=True, HomePlanet=NA, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=False, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 421
+  Not transported = 8
+  Percent transported = 98.14%
+
+CryoSleep=True, VIP=False, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 418
+  Not transported = 2
+  Percent transported = 99.52%
+
+CryoSleep=True, VIP=False, HomePlanet=Europa, Destination=PSO J318.5-22:
+  Transported = 9
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=True, VIP=False, HomePlanet=Europa, Destination=NA:
+  Transported = 14
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=True, VIP=False, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 487
+  Not transported = 300
+  Percent transported = 61.88%
+
+CryoSleep=True, VIP=False, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 154
+  Not transported = 43
+  Percent transported = 78.17%
+
+CryoSleep=True, VIP=False, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 235
+  Not transported = 113
+  Percent transported = 67.53%
+
+CryoSleep=True, VIP=False, HomePlanet=Earth, Destination=NA:
+  Transported = 11
+  Not transported = 1
+  Percent transported = 91.67%
+
+CryoSleep=True, VIP=False, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 492
+  Not transported = 54
+  Percent transported = 90.11%
+
+CryoSleep=True, VIP=False, HomePlanet=Mars, Destination=55 Cancri e:
+  Transported = 72
+  Not transported = 2
+  Percent transported = 97.3%
+
+CryoSleep=True, VIP=False, HomePlanet=Mars, Destination=PSO J318.5-22:
+  Transported = 9
+  Not transported = 1
+  Percent transported = 90.0%
+
+CryoSleep=True, VIP=False, HomePlanet=Mars, Destination=NA:
+  Transported = 20
+  Not transported = 1
+  Percent transported = 95.24%
+
+CryoSleep=True, VIP=False, HomePlanet=NA, Destination=TRAPPIST-1e:
+  Transported = 44
+  Not transported = 6
+  Percent transported = 88.0%
+
+CryoSleep=True, VIP=False, HomePlanet=NA, Destination=55 Cancri e:
+  Transported = 14
+  Not transported = 2
+  Percent transported = 87.5%
+
+CryoSleep=True, VIP=False, HomePlanet=NA, Destination=PSO J318.5-22:
+  Transported = 6
+  Not transported = 2
+  Percent transported = 75.0%
+
+CryoSleep=True, VIP=False, HomePlanet=NA, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=NA, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 9
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=True, VIP=NA, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 10
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=True, VIP=NA, HomePlanet=Europa, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=NA, HomePlanet=Europa, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=NA, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 12
+  Not transported = 10
+  Percent transported = 54.55%
+
+CryoSleep=True, VIP=NA, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 4
+  Not transported = 4
+  Percent transported = 50.0%
+
+CryoSleep=True, VIP=NA, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 4
+  Not transported = 3
+  Percent transported = 57.14%
+
+CryoSleep=True, VIP=NA, HomePlanet=Earth, Destination=NA:
+  Transported = 0
+  Not transported = 1
+  Percent transported = 0.0%
+
+CryoSleep=True, VIP=NA, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 14
+  Not transported = 1
+  Percent transported = 93.33%
+
+CryoSleep=True, VIP=NA, HomePlanet=Mars, Destination=55 Cancri e:
+  Transported = 2
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=True, VIP=NA, HomePlanet=Mars, Destination=PSO J318.5-22:
+  Transported = 1
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=True, VIP=NA, HomePlanet=Mars, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=NA, HomePlanet=NA, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=NA, HomePlanet=NA, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=NA, HomePlanet=NA, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=True, VIP=NA, HomePlanet=NA, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=True, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 25
+  Not transported = 22
+  Percent transported = 53.19%
+
+CryoSleep=False, VIP=True, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 13
+  Not transported = 36
+  Percent transported = 26.53%
+
+CryoSleep=False, VIP=True, HomePlanet=Europa, Destination=PSO J318.5-22:
+  Transported = 5
+  Not transported = 5
+  Percent transported = 50.0%
+
+CryoSleep=False, VIP=True, HomePlanet=Europa, Destination=NA:
+  Transported = 0
+  Not transported = 2
+  Percent transported = 0.0%
+
+CryoSleep=False, VIP=True, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=True, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=True, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=True, HomePlanet=Earth, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=True, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 8
+  Not transported = 47
+  Percent transported = 14.55%
+
+CryoSleep=False, VIP=True, HomePlanet=Mars, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=True, HomePlanet=Mars, Destination=PSO J318.5-22:
+  Transported = 2
+  Not transported = 6
+  Percent transported = 25.0%
+
+CryoSleep=False, VIP=True, HomePlanet=Mars, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=True, HomePlanet=NA, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 3
+  Percent transported = 0.0%
+
+CryoSleep=False, VIP=True, HomePlanet=NA, Destination=55 Cancri e:
+  Transported = 1
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=False, VIP=True, HomePlanet=NA, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=True, HomePlanet=NA, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=False, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 263
+  Not transported = 384
+  Percent transported = 40.65%
+
+CryoSleep=False, VIP=False, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 142
+  Not transported = 223
+  Percent transported = 38.9%
+
+CryoSleep=False, VIP=False, HomePlanet=Europa, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=False, HomePlanet=Europa, Destination=NA:
+  Transported = 8
+  Not transported = 11
+  Percent transported = 42.11%
+
+CryoSleep=False, VIP=False, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 661
+  Not transported = 1502
+  Percent transported = 30.56%
+
+CryoSleep=False, VIP=False, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 178
+  Not transported = 281
+  Percent transported = 38.78%
+
+CryoSleep=False, VIP=False, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 103
+  Not transported = 227
+  Percent transported = 31.21%
+
+CryoSleep=False, VIP=False, HomePlanet=Earth, Destination=NA:
+  Transported = 28
+  Not transported = 55
+  Percent transported = 33.73%
+
+CryoSleep=False, VIP=False, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 216
+  Not transported = 587
+  Percent transported = 26.9%
+
+CryoSleep=False, VIP=False, HomePlanet=Mars, Destination=55 Cancri e:
+  Transported = 41
+  Not transported = 69
+  Percent transported = 37.27%
+
+CryoSleep=False, VIP=False, HomePlanet=Mars, Destination=PSO J318.5-22:
+  Transported = 9
+  Not transported = 18
+  Percent transported = 33.33%
+
+CryoSleep=False, VIP=False, HomePlanet=Mars, Destination=NA:
+  Transported = 5
+  Not transported = 15
+  Percent transported = 25.0%
+
+CryoSleep=False, VIP=False, HomePlanet=NA, Destination=TRAPPIST-1e:
+  Transported = 26
+  Not transported = 70
+  Percent transported = 27.08%
+
+CryoSleep=False, VIP=False, HomePlanet=NA, Destination=55 Cancri e:
+  Transported = 3
+  Not transported = 8
+  Percent transported = 27.27%
+
+CryoSleep=False, VIP=False, HomePlanet=NA, Destination=PSO J318.5-22:
+  Transported = 4
+  Not transported = 3
+  Percent transported = 57.14%
+
+CryoSleep=False, VIP=False, HomePlanet=NA, Destination=NA:
+  Transported = 1
+  Not transported = 2
+  Percent transported = 33.33%
+
+CryoSleep=False, VIP=NA, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 7
+  Not transported = 10
+  Percent transported = 41.18%
+
+CryoSleep=False, VIP=NA, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 2
+  Not transported = 4
+  Percent transported = 33.33%
+
+CryoSleep=False, VIP=NA, HomePlanet=Europa, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=NA, HomePlanet=Europa, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=NA, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 16
+  Not transported = 30
+  Percent transported = 34.78%
+
+CryoSleep=False, VIP=NA, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 5
+  Not transported = 8
+  Percent transported = 38.46%
+
+CryoSleep=False, VIP=NA, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 5
+  Not transported = 5
+  Percent transported = 50.0%
+
+CryoSleep=False, VIP=NA, HomePlanet=Earth, Destination=NA:
+  Transported = 1
+  Not transported = 1
+  Percent transported = 50.0%
+
+CryoSleep=False, VIP=NA, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 7
+  Not transported = 14
+  Percent transported = 33.33%
+
+CryoSleep=False, VIP=NA, HomePlanet=Mars, Destination=55 Cancri e:
+  Transported = 1
+  Not transported = 1
+  Percent transported = 50.0%
+
+CryoSleep=False, VIP=NA, HomePlanet=Mars, Destination=PSO J318.5-22:
+  Transported = 1
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=False, VIP=NA, HomePlanet=Mars, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=NA, HomePlanet=NA, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=False, VIP=NA, HomePlanet=NA, Destination=55 Cancri e:
+  Transported = 1
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=False, VIP=NA, HomePlanet=NA, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 1
+  Percent transported = 0.0%
+
+CryoSleep=False, VIP=NA, HomePlanet=NA, Destination=NA:
+  Transported = 1
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=NA, VIP=True, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 1
+  Not transported = 2
+  Percent transported = 33.33%
+
+CryoSleep=NA, VIP=True, HomePlanet=Europa, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=Europa, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=Earth, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=Mars, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=Mars, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=Mars, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=NA, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=NA, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=NA, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=True, HomePlanet=NA, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=False, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 21
+  Not transported = 10
+  Percent transported = 67.74%
+
+CryoSleep=NA, VIP=False, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 14
+  Not transported = 8
+  Percent transported = 63.64%
+
+CryoSleep=NA, VIP=False, HomePlanet=Europa, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=False, HomePlanet=Europa, Destination=NA:
+  Transported = 2
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=NA, VIP=False, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 31
+  Not transported = 49
+  Percent transported = 38.75%
+
+CryoSleep=NA, VIP=False, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 7
+  Not transported = 5
+  Percent transported = 58.33%
+
+CryoSleep=NA, VIP=False, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 8
+  Not transported = 7
+  Percent transported = 53.33%
+
+CryoSleep=NA, VIP=False, HomePlanet=Earth, Destination=NA:
+  Transported = 1
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=NA, VIP=False, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 17
+  Not transported = 17
+  Percent transported = 50.0%
+
+CryoSleep=NA, VIP=False, HomePlanet=Mars, Destination=55 Cancri e:
+  Transported = 2
+  Not transported = 3
+  Percent transported = 40.0%
+
+CryoSleep=NA, VIP=False, HomePlanet=Mars, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 2
+  Percent transported = 0.0%
+
+CryoSleep=NA, VIP=False, HomePlanet=Mars, Destination=NA:
+  Transported = 0
+  Not transported = 1
+  Percent transported = 0.0%
+
+CryoSleep=NA, VIP=False, HomePlanet=NA, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 1
+  Percent transported = 0.0%
+
+CryoSleep=NA, VIP=False, HomePlanet=NA, Destination=55 Cancri e:
+  Transported = 1
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=NA, VIP=False, HomePlanet=NA, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=False, HomePlanet=NA, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Europa, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Europa, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Europa, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Europa, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Earth, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 3
+  Percent transported = 0.0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Earth, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 1
+  Percent transported = 0.0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Earth, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 2
+  Percent transported = 0.0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Earth, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Mars, Destination=TRAPPIST-1e:
+  Transported = 1
+  Not transported = 0
+  Percent transported = 100.0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Mars, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Mars, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=Mars, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=NA, Destination=TRAPPIST-1e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=NA, Destination=55 Cancri e:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=NA, Destination=PSO J318.5-22:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
+
+CryoSleep=NA, VIP=NA, HomePlanet=NA, Destination=NA:
+  Transported = 0
+  Not transported = 0
+  Percent transported = 0%
